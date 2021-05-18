@@ -2,6 +2,8 @@
 
 CodinGame Spring Challenge 2021 参加レポートのまとめです。
 
+主に「(CodinGame OR "こどげ") filter:links」でTwitter検索して集めています。見逃していたり、新規レポートがあればPRかTwitterで連絡していただけると幸いです。
+
 ## 参加記ブログ
 
 Name | Rank | Methods | URL
@@ -14,8 +16,7 @@ ryo_n | 386 | possible_actionsから強そうな手を選択 | [URL](https://ryo
 ボンド | 466 | 評価関数 + ルールベース + 最後の5ターンだけビームサーチ | [URL](https://bondo.hateblo.jp/entry/2021/05/17/195114)
 matsu7874 | 1652 | ビームサーチ | [URL](https://matsu7874.hatenablog.com/entry/2021/05/18/004247)
 
-
-主に「(CodinGame OR "こどげ") filter:links」でTwitter検索して集めています。見逃していたり、新規レポートがあればPRかTwitterで連絡していただけると幸いです。
+<br>
 
 ## その他、最上位層のレポートツイート
 
@@ -25,6 +26,8 @@ Name | Rank | Methods | URL
 bowwowforeach | 5 | DUCT | [URL](https://twitter.com/bowwowforeach/status/1394211023872135173)
 TERRY | 6 | DUCTで完全プレイアウトまで | [URL](https://twitter.com/terry_u16/status/1394216139736064006)
 snow39 | 20 | 一日単位のビームサーチ 幅30 深さ3~7（随意） | [URL](https://twitter.com/snow39_y/status/1394229634439421960)
+
+<br>
 
 ## 英語レポート
 
