@@ -7,6 +7,7 @@ CodinGame Spring Challenge 2021 参加レポートのまとめです。
 Name | Rank | Methods | URL
 -- | -- | -- | --
 omotchi | 17 | DUCT | [URL](https://omotchi.hateblo.jp/entry/2021/05/19/062406)
+4b | 38 | ルールベースbot改 + DUCT | [URL](https://hachibungi.hatenablog.com/entry/2021/05/20/220408)
 bin | 66 | UCB1のDUCT | [URL](https://bin101.hatenablog.com/entry/2021/05/18/032704)
 いなにわ | 171 | DUCT | [URL](https://inaniwa.hatenablog.com/entry/2021/05/17/184814)
 tabae326 | 179 | ルールベース | [URL](https://bbge.hateblo.jp/entry/2021/05/18/200927)
@@ -31,7 +32,6 @@ Name | Rank | Methods | URL
 bowwowforeach | 5 | DUCT | [URL](https://twitter.com/bowwowforeach/status/1394211023872135173)
 TERRY | 6 | DUCTで完全プレイアウトまで | [URL](https://twitter.com/terry_u16/status/1394216139736064006)
 snow39 | 20 | 一日単位のビームサーチ 幅30 深さ3~7（随意） | [URL](https://twitter.com/snow39_y/status/1394229634439421960)
-4b | 38 | DUCT | [URL](https://twitter.com/Shibungi_kyopro/status/1394222511680753666)
 
 <br>
 
