@@ -44,3 +44,8 @@ Saelyos | 2 | DUCT | [URL](https://www.codingame.com/forum/t/spring-challenge-20
 jolindien | 3 | MCTS | [URL](https://www.codingame.com/forum/t/spring-challenge-2021-feedbacks-strategies/190849/22)
 kovi | 8 | ビームサーチ、bitboard | [URL](https://www.codingame.com/forum/t/spring-challenge-2021-feedbacks-strategies/190849/38)
 Magus | 10 | MCTS、前ターンの木保持　URL内に具体的な評価値計算ソースあり | [URL](https://www.codingame.com/forum/t/spring-challenge-2021-feedbacks-strategies/190849/3)
+
+<br>
+
+## 過去のChallengeの参加レポートまとめ
+- [Fall Challenge 2020](https://github.com/shirakia/CodinGameChallengeReports/blob/main/FallChallenge2020.md)
