@@ -1,6 +1,4 @@
-# CodinGameChallengeReports
-
-CodinGame Fall Challenge 2020 参加レポートのまとめです。
+# CodinGame Fall Challenge 2020 参加レポートのまとめ
 
 Name | Rank | Methods | URL
 -- | -- | -- | --
@@ -28,12 +26,16 @@ socha77 | 1636 | ルールベース | [URL](https://socha77.hatenablog.com/entry
 ichyo | 結構いい順位 | 幅1000、深さ20のビームサーチ | [URL](https://blog.ichyo.jp/posts/codinggame-fall-challenge-2020/)
 koyumeishi | シルバー | 記事中にライブコーディングの知見あり | [URL](https://koyumeishi.hatenablog.com/entry/2020/11/28/012442)
 
+<br>
+
 ## その他有用なリンク
 
 Name | Rank | Methods | URL
 -- | -- | -- | --
 ヴァル | 32 | ヴァルさんによるTwitter上の解放まとめ | [URL](https://twitter.com/i/events/1331766871641624578)
 ヴァル | 32 | ヴァルさんの反省会ライブ動画 | [URL](https://twitcasting.tv/valgrowth/movie/652774538)
+
+<br>
 
 ## 英語レポート
 
