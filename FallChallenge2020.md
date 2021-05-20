@@ -2,6 +2,7 @@
 
 Name | Rank | Methods | URL
 -- | -- | -- | --
+ichyo | 14 | 幅1000、深さ20のビームサーチ | [URL](https://blog.ichyo.jp/posts/codinggame-fall-challenge-2020/)
 ヴァル | 32 | Chokudai Search 15ターン読み | [URL](https://valgrowth.hatenablog.com/entry/2020/11/24/211900)
 スコル | 33 | 幅500、深さ8のビームサーチ | [URL](https://scol.hatenablog.com/entry/2020/11/24/192948)
 bin101 | 50 | ダイクストラ | [URL](https://bin101.hatenablog.com/entry/2020/11/25/082928)
@@ -21,10 +22,9 @@ yamakeeee | 226 | 幅150~200のビームサーチ | [URL](https://yamakeeee.hate
 はむれ～ | 267 | 幅20、深さ10のビームサーチ | [URL](https://h3mky0.hatenadiary.jp/entry/2020/11/26/040917)
 totori_nyaa | 423 | 幅450のビームサーチ | [URL](https://totori.hatenadiary.com/entry/2020/11/23/183601)
 Roy_R | 626 | 幅10、深さ5,6のビームサーチ | [URL](https://roy-r.hatenablog.com/entry/2020/11/24/125957)
+koyumeishi | 1591 | 記事中にライブコーディングの知見あり | [URL](https://koyumeishi.hatenablog.com/entry/2020/11/28/012442)
 socha77 | 1636 | ルールベース | [URL](https://socha77.hatenablog.com/entry/2020/11/24/005226)
 えれめん | 2020 | 探索。記事内にスペルリスト、ポーションリスト含む詳細なゲームルール説明あり。 | [URL](https://zenn.dev/aielement/articles/4340e8372779db)
-ichyo | 結構いい順位 | 幅1000、深さ20のビームサーチ | [URL](https://blog.ichyo.jp/posts/codinggame-fall-challenge-2020/)
-koyumeishi | シルバー | 記事中にライブコーディングの知見あり | [URL](https://koyumeishi.hatenablog.com/entry/2020/11/28/012442)
 
 <br>
 
