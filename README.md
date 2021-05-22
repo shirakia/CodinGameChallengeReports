@@ -7,8 +7,10 @@ CodinGame Spring Challenge 2021 参加レポートのまとめです。
 Name | Rank | Methods | URL
 -- | -- | -- | --
 omotchi | 17 | DUCT | [URL](https://omotchi.hateblo.jp/entry/2021/05/19/062406)
+yukine39 | 20 | ビームサーチ | [URL](https://yukine39.hatenablog.com/entry/2021/05/21/234557)
 4b | 38 | ルールベースbot改 + DUCT | [URL](https://hachibungi.hatenablog.com/entry/2021/05/20/220408)
 bin | 66 | UCB1のDUCT | [URL](https://bin101.hatenablog.com/entry/2021/05/18/032704)
+MON.T+α | 136 | 幅50〜120、深さ10のビームサーチ | [URL](https://montplusa.hatenablog.com/entry/2021/05/20/025224)
 いなにわ | 171 | DUCT | [URL](https://inaniwa.hatenablog.com/entry/2021/05/17/184814)
 tabae326 | 179 | ルールベース | [URL](https://bbge.hateblo.jp/entry/2021/05/18/200927)
 iwashi31 | 213 | 入力された day 中に取れる行動列を無駄なものを省いて全探索し、WAIT した直後の盤面を評価 | [URL](https://www.notion.so/iwashi31-marathon-history-d32e25fdc5a2481d8625e50c7ed7e3a1?p=8a6ffce677ee48d3b2606b9b1a5034c6)
@@ -19,8 +21,10 @@ ryo_n | 386 | possible_actionsから強そうな手を選択 | [URL](https://ryo
 mdstoy | 551 | あたたかみのあるif文 | [URL](https://mdstoy.hatenablog.com/entry/2021/05/19/010723)
 ngng628 | 566 | ルールベース | [URL](https://scrapbox.io/ngmemo/Codingame_Spring_Challenge_2021)
 sackey | 1407 | ルールベース | [URL](https://note.com/sackey/n/n3f59f6815b00)
+xyz600 | 1411 | ビームサーチ＋BFS | [URL](https://xyz600.hatenablog.com/entry/2021/05/22/102245)
 Arc | 1742 | ビームサーチ | [URL](https://a4rcvv.net/codingame-spring-challenge-2021/)
 matsu7874 | 1652 | ビームサーチ | [URL](https://matsu7874.hatenablog.com/entry/2021/05/18/004247)
+prd_xxx | 2069 | ルールベース、六角座標の持ち方に工夫 | [URL](https://prd-xxx.hateblo.jp/entry/2021/05/21/071802)
 
 <br>
 
