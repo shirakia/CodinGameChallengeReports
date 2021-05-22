@@ -39,6 +39,15 @@ snow39 | 20 | 一日単位のビームサーチ 幅30 深さ3~7（随意） | [U
 
 <br>
 
+## その他有用なリンク
+
+Name | Rank | Methods | URL
+-- | -- | -- | --
+ヴァル | 4 | ヴァルさんの反省会ライブ動画 | [URL](https://twitcasting.tv/valgrowth/movie/683720066)
+TERRY | 6 | DUCT解説記事 | [URL](https://www.terry-u16.net/entry/decoupled-uct)
+
+<br>
+
 ## 英語レポート
 
 Name | Rank | Methods | URL
