@@ -45,6 +45,7 @@ Name | Rank | Methods | URL
 -- | -- | -- | --
 ヴァル | 4 | ヴァルさんの反省会ライブ動画 | [URL](https://twitcasting.tv/valgrowth/movie/683720066)
 TERRY | 6 | DUCT解説記事 | [URL](https://www.terry-u16.net/entry/decoupled-uct)
+いなにわ | 171 | マラソン形式プログラミングコンテストに参加する葵ちゃん #2 コドゲ2021春編 | [URL](https://www.nicovideo.jp/watch/sm38778701)
 
 <br>
 
