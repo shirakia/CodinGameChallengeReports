@@ -20,7 +20,7 @@ ryo_n | 386 | possible_actionsから強そうな手を選択 | [URL](https://ryo
 ボンド | 466 | 評価関数 + ルールベース + 最後の5ターンだけビームサーチ | [URL](https://bondo.hateblo.jp/entry/2021/05/17/195114)
 mdstoy | 551 | あたたかみのあるif文 | [URL](https://mdstoy.hatenablog.com/entry/2021/05/19/010723)
 ngng628 | 566 | ルールベース | [URL](https://scrapbox.io/ngmemo/Codingame_Spring_Challenge_2021)
-sackey | 1407 | ルールベース | [URL](https://note.com/sackey/n/n3f59f6815b00)
+sacckey | 1407 | ルールベース | [URL](https://note.com/sacckey/n/n3f59f6815b00)
 xyz600 | 1411 | ビームサーチ＋BFS | [URL](https://xyz600.hatenablog.com/entry/2021/05/22/102245)
 Arc | 1742 | ビームサーチ | [URL](https://a4rcvv.net/codingame-spring-challenge-2021/)
 matsu7874 | 1652 | ビームサーチ | [URL](https://matsu7874.hatenablog.com/entry/2021/05/18/004247)
