@@ -10,6 +10,7 @@ bowwowforeach | 1 | 防衛2人はルールベース、攻撃は15ターンのcho
 Nanaeda | 3 | 行動予測 + ルールベース | [URL](https://nanaeda.hatenablog.com/entry/2022/05/02/235554)
 KawattaTaido | 14 | 5ターンchokudai search | [URL](https://twitter.com/KawattaT/status/1521305796055040000)
 Bondo416 | 57 | ルールべースで序盤はファーム、30ターン以降は攻2、守1のフォーメーション | [URL](https://bondo.hateblo.jp/entry/2022/05/03/101607)
+ValGrowth | 126 | 焼きなまし | [URL](https://valgrowth.hatenablog.com/entry/2022/05/07/114552)
 Inaniwa | 156 | 攻撃2守備1のルールベース | [URL](https://inaniwa.hatenablog.com/entry/2022/05/03/001540)
 square1001 | 171 | ロマン砲 | [URL](https://twitter.com/square10011/status/1521127862795137024)
 itigo | 199 | ルールベース。じゃんけんの関係 | [URL](https://ichigokunn.hatenablog.com/entry/2022/05/07/053152)
