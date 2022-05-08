@@ -6,14 +6,16 @@ CodinGame Spring Challenge 2022 参加レポートのまとめです。
 
 Name | Rank | Methods | URL
 -- | -- | -- | --
-bowwowforeach | 1 | 防衛2人はルールベース、攻撃は15ターンのchokudaiサーチ記事内ツール類が参考になる | [URL](https://bowwowforeach.hatenablog.com/entry/2022/05/03/165011)
+bowwowforeach | 1 | 防衛2人はルールベース、攻撃は15ターンのchokudaiサーチ。記事内ツール類が参考になる | [URL](https://bowwowforeach.hatenablog.com/entry/2022/05/03/165011)
 Nanaeda | 3 | 行動予測 + ルールベース | [URL](https://nanaeda.hatenablog.com/entry/2022/05/02/235554)
 KawattaTaido | 14 | 5ターンchokudai search | [URL](https://twitter.com/KawattaT/status/1521305796055040000)
 Bondo416 | 57 | ルールべースで序盤はファーム、30ターン以降は攻2、守1のフォーメーション | [URL](https://bondo.hateblo.jp/entry/2022/05/03/101607)
 Inaniwa | 156 | 攻撃2守備1のルールベース | [URL](https://inaniwa.hatenablog.com/entry/2022/05/03/001540)
 square1001 | 171 | ロマン砲 | [URL](https://twitter.com/square10011/status/1521127862795137024)
+itigo | 199 | ルールベース。じゃんけんの関係 | [URL](https://ichigokunn.hatenablog.com/entry/2022/05/07/053152)
 montplusa | 273 | 持ち場制のルールベース | [URL](https://montplusa.hatenablog.com/entry/2022/05/03/212900)
 G4NP0N | 288 | 攻撃2守備1のルールベース | [URL](https://g4np0n-kyopro.hatenablog.com/entry/2022/05/03/151906)
+Gobi03 | 2159 | ルールベースマシマシ | [URL](https://gobi-tk.hatenablog.com/entry/2022/05/05/232203)
 zezero | 3408 | CONTROLで敵ベースに送りつける | [URL](https://zezero.hatenablog.com/entry/2022/05/03/224557)
 
 
